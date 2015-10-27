@@ -1,0 +1,7 @@
+D:\Projects\TestAppliaction\UnitTestProj\bin\Debug\UnitTestProj.dll
+D:\Projects\TestAppliaction\UnitTestProj\bin\Debug\UnitTestProj.pdb
+D:\Projects\TestAppliaction\UnitTestProj\bin\Debug\TestAppliaction.exe
+D:\Projects\TestAppliaction\UnitTestProj\bin\Debug\TestAppliaction.pdb
+D:\Projects\TestAppliaction\UnitTestProj\obj\Debug\UnitTestProj.csprojResolveAssemblyReference.cache
+D:\Projects\TestAppliaction\UnitTestProj\obj\Debug\UnitTestProj.dll
+D:\Projects\TestAppliaction\UnitTestProj\obj\Debug\UnitTestProj.pdb
