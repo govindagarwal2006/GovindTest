@@ -28,28 +28,6 @@ namespace UnitTestProj
             string actualResult = appObject.combineArrayStringWithSpace(actualStringArray);
             Assert.AreEqual<string>(expectedResult, actualResult);
         }
-
-        [TestMethod]
-        public void PossitiveSchenarioForChecking_combineArrayStringWithSpace_3()
-        {
-            string expectedResult = "This appliaction is for failed case";
-            string[] actualStringArray = new string[] { "This", "application", "is", "for", "testing", "purpose", "only" };
-            ApplicationCodeClass appObject = new ApplicationCodeClass();
-
-            string actualResult = appObject.combineArrayStringWithSpace(actualStringArray);
-            Assert.AreEqual<string>(expectedResult, actualResult);
-        }
-
-
-        [TestMethod]
-        public void PossitiveSchenarioForChecking_combineArrayStringWithSpace_4()
-        {
-            string expectedResult = "This appliaction is for failed case";
-            string[] actualStringArray = new string[] { "This", "application", "is", "for", "testing", "purpose", "only" };
-            ApplicationCodeClass appObject = new ApplicationCodeClass();
-
-            string actualResult = appObject.combineArrayStringWithSpace(actualStringArray);
-            Assert.AreEqual<string>(expectedResult, actualResult);
-        }
+     
     }
 }
